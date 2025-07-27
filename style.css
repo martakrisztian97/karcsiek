@@ -1,0 +1,9 @@
+#countdown {
+  word-wrap: break-word;
+}
+
+@media (max-width: 576px) {
+  #countdown {
+    font-size: 7vw;
+  }
+}
